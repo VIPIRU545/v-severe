@@ -4,5 +4,5 @@
     "Software": "2.0.0",
     "Roblox": "version-5a6b6797f4e04078"
   },
-  "Changelog": "",
+  "Changelog": "using temp solution from auth provider",
 }
