@@ -2,7 +2,7 @@
   "Platform": "Windows",
   "Versions": {
     "Software": "2.0.0",
-    "Roblox": "version-5a6b6797f4e04078"
+    "Roblox": "version-347f4ac346734391"
   },
-  "Changelog": "using temp solution from auth provider",
+  "Changelog": "",
 }
